@@ -13,7 +13,7 @@ Mi objetivo es participar en proyectos reales y nunca dejar de aprender.
 
 ## Contacto
 Puedes encontrarme en:
-- [LinkedIn](www.linkedin.com/in/egliz-morillo)
+- [LinkedIn](www.linkedin.com/in/egliz-morillo-50795b209)
 - [Correo Electrónico](mailto:egliz3010@gmail.com)
 
 - 🌱 I’m currently learning ...
