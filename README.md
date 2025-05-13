@@ -1,18 +1,21 @@
 ## Hola, soy Egliz Morillo 👋
 
-<!--
-**Soy una persona organizada, adaptable y
+Soy una persona organizada, adaptable y
 comprometida con el aprendizaje continuo.
 Actualmente estudio Programación Informática y desarrollo web, lo que
 me ha proporcionado una base sólida en análisis lógico
-y resolución de problemas. 
-
-Me interesa entender cómo funcionan las cosas desde la base y disfruto resolviendo problemas con creatividad. Vengo de contextos donde la atención al detalle, la comunicación efectiva y la responsabilidad son esenciales, cualidades que aplico cada día en mi camino dentro del mundo tecnológico.
+y resolución de problemas.
 Mi objetivo es participar en proyectos reales y nunca dejar de aprender.
 
-Here are some ideas to get you started:
+## Herramientas
 
-- 🔭 I’m currently working on ...
+
+
+## Contacto
+Puedes encontrarme en:
+- [LinkedIn](www.linkedin.com/in/egliz-morillo)
+- [Correo Electrónico](mailto:egliz3010@gmail.com)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
