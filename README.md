@@ -1,6 +1,6 @@
 ## Hola, soy Egliz Morillo 👋
 
-Soy una persona organizada, adaptable y
+Soy organizada, adaptable y
 comprometida con el aprendizaje continuo.
 Actualmente estudio Programación Informática, lo que
 me ha proporcionado una base sólida en análisis lógico
