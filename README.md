@@ -1,11 +1,5 @@
 ## Hola, soy Egliz Morillo 👋
 
-Soy organizada, adaptable y
-comprometida con el aprendizaje continuo.
-Actualmente estudio Programación Informática, lo que
-me ha proporcionado una base sólida en análisis lógico
-y resolución de problemas.
-Mi objetivo es participar en proyectos reales y nunca dejar de aprender.
 
 ## Tecnologías
 
